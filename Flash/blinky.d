@@ -1,0 +1,10 @@
+.\flash\blinky.o: Blinky.c
+.\flash\blinky.o: D:\Keil_v5.22\ARM\PACK\ARM\CMSIS\5.0.0\CMSIS\RTOS\RTX\INC\cmsis_os.h
+.\flash\blinky.o: D:\Keil_v5.22\ARM\ARMCC\Bin\..\include\stdint.h
+.\flash\blinky.o: D:\Keil_v5.22\ARM\ARMCC\Bin\..\include\stddef.h
+.\flash\blinky.o: D:\Keil_v5.22\ARM\PACK\Keil\LPC1800_DFP\2.6.0\Device\Include\LPC18xx.h
+.\flash\blinky.o: D:\Keil_v5.22\ARM\PACK\ARM\CMSIS\5.0.0\CMSIS\Include\core_cm3.h
+.\flash\blinky.o: D:\Keil_v5.22\ARM\PACK\ARM\CMSIS\5.0.0\CMSIS\Include\cmsis_compiler.h
+.\flash\blinky.o: D:\Keil_v5.22\ARM\PACK\ARM\CMSIS\5.0.0\CMSIS\Include\cmsis_armcc.h
+.\flash\blinky.o: D:\Keil_v5.22\ARM\PACK\Keil\LPC1800_DFP\2.6.0\Device\Include\system_LPC18xx.h
+.\flash\blinky.o: D:\Keil_v5.22\ARM\PACK\Keil\MDK-Middleware\7.3.0\Board\Board_LED.h
